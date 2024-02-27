@@ -11,7 +11,6 @@
 
 [Challenge práctica de Pandas](https://drive.google.com/file/d/1uOMz9k4WzMJD9hQMmNp_Bq9v_I3dpLda/view?usp=drive_link)
 
-[Challenge práctica de Pandas RESUELTO](https://colab.research.google.com/drive/1lEQ2xIWW3WYN_18EMoPQxzp48mGTBuJ4?usp=sharing)
 
 [Carpeta con datos para ejercicio de pandas](https://drive.google.com/drive/folders/1ksNbF0DzgHOr8KGpK12jQ11Hfst-E4tD)
 
@@ -27,8 +26,6 @@ Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
 [Colab de BD No relacionales_ Codigo Base](https://colab.research.google.com/drive/1hkGNb8JxdX8pjS-HBzir-ijzZ_UFPko8?usp=sharing)
 
-[Colab de BD No relacionales](https://drive.google.com/file/d/1z-WnHKnKzHwjsZFd0PsrBtg7foh-Ghdu/view?usp=drive_link)
-
 [Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
 
 
@@ -42,8 +39,7 @@ __Continuación con Colab Mongo__
 ### Sesión 4 - Modo código para entender las APIs (o sea la parte práctica de APIs)
 
 
-[Colab de APIs Vacío](https://colab.research.google.com/drive/1glxDcWDRucg9IQMitQ2YVRJsX0cVul4R?usp=sharing)
-[Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
+[Colab de APIs](https://colab.research.google.com/drive/1glxDcWDRucg9IQMitQ2YVRJsX0cVul4R?usp=sharing)
 
 
 __Documentación de APIs Utilizadas en clase__
@@ -79,17 +75,13 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 ### Sesión 6 - Web Scrapping (Parte práctica) 🤖 🕷
 
-[Colab Data Wrangling](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
-
-[Colab Web Scrapping actualizado CLASE 1 NOV 2023](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
-
+[Colab Web Scrapping](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
 
 
 ### Sesión 7 - Construye tu API 🤖 🕷
 
 [Código base](https://drive.google.com/file/d/1CUEBBmHW5uk7G5OC0Jmn8NaAR5hR8dyc/view?usp=drive_link)
 
-[Código visto en clase 6 de Nov 2023](https://drive.google.com/file/d/14244ISJ97frI-JQxUWcmVzCLRG3oLuyc/view?usp=sharing)
 
 
 __Crear cuenta en Pythonanywhere__
