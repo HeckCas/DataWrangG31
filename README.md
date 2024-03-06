@@ -24,7 +24,7 @@ Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
 [Presentación de BD No relacionales](https://docs.google.com/presentation/d/19hudpiinc2iwqnZNGsLQ94Ol8arav7Ut/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
 
-[Colab de BD No relacionales_ Codigo Base](https://colab.research.google.com/drive/1hkGNb8JxdX8pjS-HBzir-ijzZ_UFPko8?usp=sharing](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing)
+[Colab de BD No relacionales_ Codigo Base](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing)
 
 [Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
 
