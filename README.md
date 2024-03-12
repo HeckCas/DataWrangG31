@@ -12,6 +12,9 @@
 [Challenge práctica de Pandas](https://drive.google.com/file/d/1uOMz9k4WzMJD9hQMmNp_Bq9v_I3dpLda/view?usp=drive_link)
 
 
+[Challenge práctica de Pandas VERSIÓN RESUELTA EN CLASE](https://colab.research.google.com/drive/1omVG1rQPZcYLgzZkl0VqJAEt6ll420kc?usp=sharing)
+
+
 [Carpeta con datos para ejercicio de pandas](https://drive.google.com/drive/folders/1ksNbF0DzgHOr8KGpK12jQ11Hfst-E4tD)
 
 
@@ -24,7 +27,9 @@ Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
 [Presentación de BD No relacionales](https://docs.google.com/presentation/d/19hudpiinc2iwqnZNGsLQ94Ol8arav7Ut/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
 
-[Colab de BD No relacionales_ Codigo Base](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing)
+[Colab de BD No relacionales_Codigo Base](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing)
+
+[Colab de BD No relacionales_VERSIÓN RESUELTA EN CLASE](https://colab.research.google.com/drive/1FFSFvIJw45yaQTjRucuCEJ0m1CJUVehT?usp=sharing)
 
 [Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
 
@@ -39,14 +44,14 @@ __Continuación con Colab Mongo__
 ### Sesión 4 - Modo código para entender las APIs (o sea la parte práctica de APIs)
 
 
-[Colab de APIs](https://colab.research.google.com/drive/1glxDcWDRucg9IQMitQ2YVRJsX0cVul4R?usp=sharing)
+[Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=sharing)
 
 
 __Documentación de APIs Utilizadas en clase__
 
 
 
-[Documentación de SWAPI](https://swapi.dev/)
+[Documentación de SWAPI](https://swapi.tech/)
 [Documentación de Coingecko](https://www.coingecko.com/api/documentation)
 [Documentación de YELP](https://docs.developer.yelp.com/reference/v3_business_search)
 
