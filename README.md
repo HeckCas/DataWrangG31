@@ -7,44 +7,42 @@
 
 ### Sesión 1 - Introducción a Data Wrangling / Data Engineering ☁️
 
-[Presentación](https://docs.google.com/presentation/d/17ZIozZG5HQCxcPFeLe3AlnL--Z1VR-GVYbBAUvG7GIc/edit?usp=drive_link)
+· [Presentación](https://docs.google.com/presentation/d/17ZIozZG5HQCxcPFeLe3AlnL--Z1VR-GVYbBAUvG7GIc/edit?usp=drive_link)
 
-[Challenge práctica de Pandas](https://drive.google.com/file/d/1uOMz9k4WzMJD9hQMmNp_Bq9v_I3dpLda/view?usp=drive_link)
+· [Challenge práctica de Pandas](https://drive.google.com/file/d/1uOMz9k4WzMJD9hQMmNp_Bq9v_I3dpLda/view?usp=drive_link)
 
+· [Challenge práctica de Pandas VERSIÓN RESUELTA EN CLASE](https://colab.research.google.com/drive/1omVG1rQPZcYLgzZkl0VqJAEt6ll420kc?usp=sharing)
 
-[Challenge práctica de Pandas VERSIÓN RESUELTA EN CLASE](https://colab.research.google.com/drive/1omVG1rQPZcYLgzZkl0VqJAEt6ll420kc?usp=sharing)
-
-
-[Carpeta con datos para ejercicio de pandas](https://drive.google.com/drive/folders/1ksNbF0DzgHOr8KGpK12jQ11Hfst-E4tD)
+· [Carpeta con datos para ejercicio de pandas](https://drive.google.com/drive/folders/1ksNbF0DzgHOr8KGpK12jQ11Hfst-E4tD)
 
 
 
 ### Sesión 2 - Bases de Datos No relacionales (NoSQL) 
 
-Descargar [Mongo Compass](https://www.mongodb.com/try/download/compass)
+· Descargar [Mongo Compass](https://www.mongodb.com/try/download/compass)
 
-Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
+· Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
-[Presentación de BD No relacionales](https://docs.google.com/presentation/d/19hudpiinc2iwqnZNGsLQ94Ol8arav7Ut/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
+· [Presentación de BD No relacionales](https://docs.google.com/presentation/d/19hudpiinc2iwqnZNGsLQ94Ol8arav7Ut/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
 
-[Colab de BD No relacionales_Codigo Base](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing)
+· [Colab de BD No relacionales_Codigo Base](https://colab.research.google.com/drive/1gSyeQhL2pwvcnhn1hmzrIl4vNRbWAI-R?usp=sharing)
 
-[Colab de BD No relacionales_VERSIÓN RESUELTA EN CLASE](https://colab.research.google.com/drive/1FFSFvIJw45yaQTjRucuCEJ0m1CJUVehT?usp=sharing)
+· [Colab de BD No relacionales_VERSIÓN RESUELTA EN CLASE](https://colab.research.google.com/drive/1FFSFvIJw45yaQTjRucuCEJ0m1CJUVehT?usp=sharing)
 
-[Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
+· [Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
 
 
 ### Sesión 3 - ➕ More NoSQL DB con DODB usando Mongo 🍂 + APIs 🌐: 
 
-__Continuación con Colab Mongo__
+· __Continuación con Colab Mongo__
 
-[Presentación de APIS](https://docs.google.com/presentation/d/1lIPet0kS1WmWHPWgt9JouCo2n6GUPMZN/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
+· [Presentación de APIS](https://docs.google.com/presentation/d/1lIPet0kS1WmWHPWgt9JouCo2n6GUPMZN/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
 
 
 ### Sesión 4 - Modo código para entender las APIs (o sea la parte práctica de APIs)
 
 
-[Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=sharing)
+· [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=sharing)
 
 
 __Documentación de APIs Utilizadas en clase__
