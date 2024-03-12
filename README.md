@@ -51,15 +51,9 @@ __Documentación de APIs Utilizadas en clase__
 
 
 
-[Documentación de SWAPI](https://swapi.tech/)
-[Documentación de Coingecko](https://www.coingecko.com/api/documentation)
-[Documentación de YELP](https://docs.developer.yelp.com/reference/v3_business_search)
-
-__Extras__
-
-
-[Referencia de Antiguo Challenge de Twitter](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
-
+ - [Documentación de SWAPI](https://swapi.tech/)
+ - [Documentación de Coingecko](https://www.coingecko.com/api/documentation)
+ - [Documentación de YELP](https://docs.developer.yelp.com/reference/v3_business_search)
 
 
 ### Sesión 5 - Web Scrapping
