@@ -44,6 +44,8 @@
 
 · [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=sharing)
 
+· [Colab de APIs VERSIÓN RESUELTA EN CLASE](https://colab.research.google.com/drive/16hKkys14sCjV5F7E0kyQeHORgOj2JHG3?usp=sharing)
+
 
 __Documentación de APIs Utilizadas en clase__
 
