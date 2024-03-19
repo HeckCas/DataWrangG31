@@ -62,7 +62,7 @@ __Documentación de APIs Utilizadas en clase__
 
 [Descarga Google Chrome](https://www.google.com/chrome/?brand=BNSD&gclsrc=ds&gclsrc=ds)
 
-[Descarga Driver para Chrome](https://chromedriver.chromium.org/downloads)
+[Descarga Driver para Chrome](https://googlechromelabs.github.io/chrome-for-testing/#stable)
 
 _Estos 2 sí los necesitaremos para la clase, los demás pueden esperar para la próxima_
 
