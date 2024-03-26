@@ -76,6 +76,8 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 [Colab Web Scrapping](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
 
+[Web Scrappind VERSIÓN RESUELTA EN CLASE](https://drive.google.com/file/d/16rEhbA46_hfabAWD2c9BrR2O3nf4cGDt/view?usp=sharing)
+
 
 ### Sesión 7 - Construye tu API 🤖 🕷
 
